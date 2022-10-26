@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+nav {
+  height: 65px;
+  background: linear-gradient(90deg, rgba(255,124,0,1) 0%, rgba(255,249,0,1) 100%);
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.logo--img {
+  height: 60px;
+  margin-right: 6px;
+}
+
+.logo--title {
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.25rem;
+  height: 30px;
+  margin-right: auto;
+}
+
+.course--title {
+  color: #000;
+  font-weight: 500;
+  font-size: .75 rem;
+}
